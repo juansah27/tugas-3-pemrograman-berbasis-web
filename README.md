@@ -61,6 +61,9 @@ npx http-server -p 8000
 
 Lalu buka: `http://localhost:8000`
 
+### Opsi 3: Online (GitHub Pages)
+Aplikasi dapat diakses online di: **https://juansah27.github.io/tugas-2-pemrograman-berbasis-web/**
+
 ## Vue.js Features yang Digunakan
 
 - **Directives**: `v-if`, `v-show`, `v-for`, `v-model`, `v-bind`, `v-html`, `v-text`
