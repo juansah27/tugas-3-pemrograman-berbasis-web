@@ -18,6 +18,14 @@ npm-debug.log*
 *.tmp
 *.temp
 
-# Documentation files (not needed in repo)
-NARASI_VIDEO.md
+# Documentation files (optional - bisa di-include atau tidak)
+# NARASI_PENJELASAN.md
+# OUTLINE_PRESENTASI.md
+
+# Old files (tidak digunakan lagi)
+stok.html
+tracking.html
+dataBahanAjar.js
+js/stok-app.js
+js/tracking-app.js
 
